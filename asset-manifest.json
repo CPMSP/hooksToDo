@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hooksToDo/static/css/main.d1b05096.chunk.css",
+    "main.js": "/hooksToDo/static/js/main.70511abd.chunk.js",
+    "main.js.map": "/hooksToDo/static/js/main.70511abd.chunk.js.map",
+    "runtime-main.js": "/hooksToDo/static/js/runtime-main.85298572.js",
+    "runtime-main.js.map": "/hooksToDo/static/js/runtime-main.85298572.js.map",
+    "static/js/2.beb39c45.chunk.js": "/hooksToDo/static/js/2.beb39c45.chunk.js",
+    "static/js/2.beb39c45.chunk.js.map": "/hooksToDo/static/js/2.beb39c45.chunk.js.map",
+    "index.html": "/hooksToDo/index.html",
+    "precache-manifest.d7683bda2ab623ddc50e221c834a42b1.js": "/hooksToDo/precache-manifest.d7683bda2ab623ddc50e221c834a42b1.js",
+    "service-worker.js": "/hooksToDo/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/hooksToDo/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.beb39c45.chunk.js.LICENSE.txt": "/hooksToDo/static/js/2.beb39c45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85298572.js",
+    "static/js/2.beb39c45.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.70511abd.chunk.js"
+  ]
+}
